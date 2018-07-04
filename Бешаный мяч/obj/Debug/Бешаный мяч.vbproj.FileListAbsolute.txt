@@ -1,0 +1,10 @@
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\bin\Debug\Бешаный мяч.exe.config
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\bin\Debug\Бешаный мяч.exe
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\bin\Debug\Бешаный мяч.pdb
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\bin\Debug\Бешаный мяч.xml
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\obj\Debug\Бешаный_мяч.Form1.resources
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\obj\Debug\Бешаный_мяч.Resources.resources
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\obj\Debug\Бешаный мяч.vbproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\obj\Debug\Бешаный мяч.exe
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\obj\Debug\Бешаный мяч.xml
+c:\users\максим\documents\visual studio 2012\Projects\Бешаный мяч\Бешаный мяч\obj\Debug\Бешаный мяч.pdb
